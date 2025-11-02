@@ -103,6 +103,11 @@
       "folders": "/"
     },
     {
+      "type": "disk",
+      "key": "{#separator}│  {#keys}󰋊 Disk (/home)",
+      "folders": "/home"
+    },
+    {
       "type": "custom",
       "format": "{#1}│"
     },
